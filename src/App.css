@@ -74,8 +74,16 @@ header .top-bar ul {
   margin: 0 5px;
 }
 
+header .top-bar ul:last-child {
+  margin-right: 0;
+}
+
 header .top-bar ul li {
   padding: 0 5px;
+}
+
+header .top-bar ul li:last-child {
+  padding-right: 0;
 }
 
 header .top-bar ul li a {
@@ -99,7 +107,7 @@ header .top-bar ul.social-list a {
 
 header .top-bar ul.action-list a {
   border: 1px solid #778a50;
-  padding: 4px 7px;
+  padding: 2px 7px;
   border-radius: 3px;
   color: #778a50;
   font-size: 14px;
