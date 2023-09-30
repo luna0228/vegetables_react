@@ -4,7 +4,7 @@ export default function Content() {
         <div className="main-container">
             <div className="container">
                 <div className="banner mb-30">
-                    <img src="public/img/banner.jpg" alt="banner" className="border-r" />
+                    <img src="img/banner.jpg" alt="banner" className="border-r" />
                 </div>
                 <div className="row">
                     <div className="left mb-30">
@@ -14,13 +14,13 @@ export default function Content() {
                         <div className="photo-grid">
                             <ul>
                                 <li className="border-r ">
-                                    <img src="public/img/vegetable01.jpg" alt="Vegetables" />
+                                    <img src="img/vegetable01.jpg" alt="Vegetables" />
                                 </li>
                                 <li className="border-r ">
-                                    <img src="public/img/vegetable02.jpg" alt="Vegetables" />
+                                    <img src="img/vegetable02.jpg" alt="Vegetables" />
                                 </li>
                                 <li className="border-r ">
-                                    <img src="public/img/vegetable03.jpg" alt="Vegetables" />
+                                    <img src="img/vegetable03.jpg" alt="Vegetables" />
                                 </li>
                             </ul>
                         </div>

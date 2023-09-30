@@ -8,10 +8,10 @@ export default function Header() {
                     <div className="top-bar">
                         <ul className="social-list">
                             <li><a href="#" title="fb">
-                                <img src="public/img/icon_fb.png" alt="fb" />
+                                <img src="img/icon_fb.png" alt="fb" />
                             </a></li>
                             <li><a href="#" title="ig">
-                                <img src="public/img/icon_ig.png" alt="ig" />
+                                <img src="img/icon_ig.png" alt="ig" />
                             </a></li>
                         </ul>
                         <ul className="action-list">
