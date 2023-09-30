@@ -82,7 +82,7 @@ header .top-bar ul li {
   padding: 0 5px;
 }
 
-header .top-bar ul li:last-child {
+header .top-bar ul.action-list li:last-child {
   padding-right: 0;
 }
 
