@@ -6,7 +6,7 @@
 
 body,
 html {
-  font-family: Arial, "微軟正黑體", sans-serif;
+  font-family: "Arial Black", "微軟正黑體", sans-serif;
   font-size: 16px;
   color: #7d7d7d;
   font-weight: 400;
@@ -169,6 +169,7 @@ header .nav-menu .menu-list li a {
   font-size: 12px;
   line-height: 1.25;
   margin: 0;
+  font-family: Arial;
 }
 
 .card p.lineH-2 {
